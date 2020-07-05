@@ -1,0 +1,1 @@
+cls & bundle exec jekyll serve
