@@ -29,5 +29,6 @@ git config --global user.email 이메일
 ```
 이 두 가지를 하셨나요?
 3. 위 두 가지 다 했는데 안 되시나요?  
+그렇다면 
 [https://coding-factory.tistory.com/245](https://coding-factory.tistory.com/245)  
-이 링크 대로 다시 한번 git을 설치해주세요.
+이 링크 대로 다시 한번 git을 설치해보셔요.
