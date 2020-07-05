@@ -1,11 +1,19 @@
 # main links
 main:
-  - title: "윤동주"
-    url: /categories/윤동주/
-  - title: "카테고리"
-    url: /categories/
-  - title: "태그"
-    url: /tags/
+  # - title: "About"
+  #   url: /about/
+  # - title: "윤동주"
+  #   url: /categories/yun-don-ju/
+  - title: "잡담"
+    url: /categories/idletalk/
+  - title: "디스코드"
+    url: /discord/
+  - title: "카봇"
+    url: /carbot/
+  # - title: "카테고리"
+  #   url: /categories/
+  # - title: "태그"
+  #   url: /tags/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
