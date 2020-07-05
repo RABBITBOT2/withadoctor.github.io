@@ -7,3 +7,4 @@ taxonomy: idletalk
 ---
 
 아무말대잔치하는 곳입니다.
+* * *
