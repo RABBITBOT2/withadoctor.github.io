@@ -260,6 +260,7 @@
   }
 
   &.home img {
+    @include breakpoint($large) {
     max-width: 300px;
     width: 300px;
     height: 300px;
@@ -268,6 +269,7 @@
       animation: pfpHoverOn 800ms linear both;
     }
   }
+}
 }
 
 .author__content {
