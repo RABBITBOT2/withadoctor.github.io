@@ -243,6 +243,12 @@
   width: 36px;
   height: 36px;
 
+  &.home {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
   @include breakpoint($large) {
     display: block;
     width: auto;
@@ -261,15 +267,15 @@
 
   &.home img {
     @include breakpoint($large) {
-    max-width: 300px;
-    width: 300px;
-    height: 300px;
-    animation: pfpDefault 800ms linear both;
-    &:hover {
-      animation: pfpHoverOn 800ms linear both;
+      max-width: 300px;
+      width: 300px;
+      height: 300px;
+      animation: pfpDefault 800ms linear both;
+      &:hover {
+        animation: pfpHoverOn 800ms linear both;
+      }
     }
   }
-}
 }
 
 .author__content {
