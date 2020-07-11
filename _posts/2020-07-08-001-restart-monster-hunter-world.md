@@ -8,9 +8,15 @@ toc_label: "페이지 주요 목차"
 
 categories:
   - idletalk
+  - monsterhunter
 tags:
   - 잡담
   - idletalk
+  - monsterhunter
+  - 몬헌
+  - 몬헌 월드
+  - 몬헌 아이스본
+  - 아이스본
 last_modified_at: 2020-07-08T22:22:00+09:00
 ---
 
