@@ -2,8 +2,8 @@
 main:
   # - title: "About"
   #   url: /about/
-  # - title: "윤동주"
-  #   url: /categories/yun-don-ju/
+  - title: "윤동주"
+    url: /categories/yun-don-ju/
   - title: "잡담"
     url: /categories/idletalk/
   - title: "디스코드 봇"
